@@ -3,7 +3,7 @@
 
     <!-- Page Heading -->
     <h1 class="h3 mb-4 text-gray-800"></h1>
-    <a href="alumni/tambah" class="btn btn-success">Tambah Data</a>
+    <a href="alumni/tambah" class="btn btn-success">Tambah Data Admin</a>
     <br>
     <br>
     <form action="<?=base_url('alumni')?>" method="post">
